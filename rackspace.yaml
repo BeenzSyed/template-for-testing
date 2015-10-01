@@ -1,6 +1,6 @@
 schema-version: 1.0.0
 application-family: eCommerce
-application-name Magento
+application-name: Magento
 application-version: 1.9.2.0
 flavor: Development
 flavor-weight: 3
